@@ -8,7 +8,7 @@
 
 Feel free to continue this cancelled project, but please give credit as required (© CC BY-NC 4.0).
 
-== EXTRA CREDITS ==
+== EXTRA CREDITS ==<br>
 Music: "Retro Platforming" by Fesliyan Studios.<br>
 https://www.FesliyanStudios.com
 
