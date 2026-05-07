@@ -17,3 +17,4 @@ A small collection of tinier games I made.
 ## Notes
 
 Simple projects and experiments. More may be added over time.
+> 🚫 No generative AI was used in the making of these games.
