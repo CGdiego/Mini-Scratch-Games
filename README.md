@@ -1,4 +1,4 @@
-# Mini-Games Hub
+# Mini Scratch Games Hub
 
 Play online:
 https://cgdiego.github.io/Mini-Scratch-Games/
