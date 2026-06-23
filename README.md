@@ -3,7 +3,7 @@
 Play online:
 https://cgdiego.github.io/Mini-Scratch-Games/
 
-A small collection of tinier games I made.
+A small collection of tinier Scratch games I made.
 
 ## Games
 
