@@ -1,7 +1,7 @@
 # Mini-Games Hub
 
 Play online:
-https://cgdiego.github.io/Mini-Games/
+https://cgdiego.github.io/Mini-Scratch-Games/
 
 A small collection of tinier games I made.
 
