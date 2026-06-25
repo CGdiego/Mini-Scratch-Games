@@ -8,11 +8,12 @@ RULES:
 - That's just it!
 
 EXTRA CREDITS:
-- Haggstrom - C418 (Sped Up)<br>
+- Haggstrom - C418 (Sped Up)
 - Moog City - C418 (Sped Up)
+- One Sprite Cloud Leaderboard - diggerboy12
 
 KNOWN BUGS (Please let me know if you know how to fix them!):
 - Sometimes the original purple block will appear 2 times. 
 
 PLANS FOR THE NEXT UPDATES:
-- Online leaderboard.
+- Collision system.
