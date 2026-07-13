@@ -1,13 +1,13 @@
 # Mini Scratch Games Hub
 
-<p align="center">
-<img width="400" height="300" alt="MiniScratchGamesThumb" src="https://github.com/user-attachments/assets/4fe1ed4c-4b09-4ae0-a7f3-1fb353418e6e" />
-</p>
-
 Play online:
 https://cgdiego.github.io/Mini-Scratch-Games/
 
 A small collection of tinier Scratch games I made.
+
+<p align="center">
+<img width="400" height="300" alt="MiniScratchGamesThumb" src="https://github.com/user-attachments/assets/4fe1ed4c-4b09-4ae0-a7f3-1fb353418e6e" />
+</p>
 
 ## Games
 
