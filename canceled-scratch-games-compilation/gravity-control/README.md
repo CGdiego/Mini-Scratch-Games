@@ -1,8 +1,8 @@
 [THIS GAME HAS BEEN CANCELED, SO EXPECT BUGS]
 
 <p align="center">
-<img width="400" height="300" alt="GravityControlThumb" src="https://github.com/user-attachments/assets/b508c294-5ad1-46cc-ab3b-f4a1788eb783" />
-<\p>
+<img width="300" height="300" alt="GravityControlThumb" src="https://github.com/user-attachments/assets/b508c294-5ad1-46cc-ab3b-f4a1788eb783" />
+</p>
 
 == CONTROLS ==<br>
 [A] Move Left<br>
